@@ -3,7 +3,7 @@ const redirectUri = 'http://localhost:3000/'; // Have to add this to your accept
 let accessToken;
  */
 
-const CLIENT_ID = '9a77fc6858aa439ca5daafc108c13205';
+const CLIENT_ID = '';
 const REDIRECT_URI = 'http://localhost:3000/';
 
 const localStorageKey = 'accessToken';
